@@ -1,4 +1,4 @@
-gollow images gatsby1.png i gatsby2.png
+follow images gatsby1.png i gatsby2.png
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
